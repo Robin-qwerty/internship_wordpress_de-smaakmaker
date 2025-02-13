@@ -1,1 +1,13 @@
 [13-Feb-2025 08:45:32 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[13-Feb-2025 10:46:03 UTC] PHP Warning:  Undefined array key "mega-menu" in /home/robin/Local Sites/de-smaakmaker/app/public/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 776
+[13-Feb-2025 10:46:03 UTC] PHP Warning:  Undefined array key "mega-menu" in /home/robin/Local Sites/de-smaakmaker/app/public/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 776
+[13-Feb-2025 10:46:04 UTC] PHP Warning:  Undefined array key "mega-menu" in /home/robin/Local Sites/de-smaakmaker/app/public/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 776
+[13-Feb-2025 12:38:04 UTC] PHP Warning:  Undefined array key 0 in /home/robin/Local Sites/de-smaakmaker/app/public/wp-content/plugins/elementor-pro/modules/dynamic-tags/acf/tags/acf-text.php on line 33
+[13-Feb-2025 12:38:04 UTC] PHP Warning:  Undefined array key 1 in /home/robin/Local Sites/de-smaakmaker/app/public/wp-content/plugins/elementor-pro/modules/dynamic-tags/acf/tags/acf-text.php on line 33
+[13-Feb-2025 12:38:56 UTC] PHP Warning:  Undefined array key 0 in /home/robin/Local Sites/de-smaakmaker/app/public/wp-content/plugins/elementor-pro/modules/dynamic-tags/acf/tags/acf-image.php on line 40
+[13-Feb-2025 12:38:56 UTC] PHP Warning:  Undefined array key 1 in /home/robin/Local Sites/de-smaakmaker/app/public/wp-content/plugins/elementor-pro/modules/dynamic-tags/acf/tags/acf-image.php on line 40
+[13-Feb-2025 13:49:59 UTC] ERROR PostmanWpMail: Exception code=0 message=Could not read from smtp.gmail.com
+[13-Feb-2025 13:50:00 UTC] ERROR PostmanSendTestEmailAjaxController: Test Email NOT delivered to server - 0
+[13-Feb-2025 13:51:33 UTC] ERROR PostmanWpMail: Exception code=0 message=Could not read from smtp.gmail.com
+[13-Feb-2025 13:51:33 UTC] ERROR PostmanSendTestEmailAjaxController: Test Email NOT delivered to server - 0
+[13-Feb-2025 14:09:52 UTC] PHP Warning:  Attempt to read property "title" on null in /home/robin/Local Sites/de-smaakmaker/app/public/wp-includes/class-wp-customize-widgets.php on line 923
